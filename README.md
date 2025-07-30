@@ -1,6 +1,7 @@
 # 🚀 햄북 Stock 📈
 
 > **PNU SW학습공동체 프로젝트** - 모의 주식 투자 플랫폼
+> https://www.hambookstocks.store/
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.8-green.svg)](https://fastapi.tiangolo.com/)
